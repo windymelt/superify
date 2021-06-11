@@ -1,6 +1,8 @@
 # superify
 make image super
 
+![before.png](./yuyuko.2.small.png) → ![after.gif](./yuyuko.2.small.png.animated.gif)
+
 ## Build
 
 ```shell
